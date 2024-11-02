@@ -1,23 +1,6 @@
-html:root {
-                --tg-theme-primary: #45f882
-            }
+:root {
+    --tg-theme-bg-color: #45f8825c;
+    --tg-theme-button-color: #73e89b94;
+    --tg-theme-button-text-color: #09ab41
+}
 
-            html:root {
-                --unit-primary-color: #45f882
-            }
-
-            html:root {
-                --tg-common-color-teal: #68fb9a
-            }
-
-            html:root {
-                --tg-theme-secondary: #ffbe18
-            }
-
-            html:root {
-                --unit-secondary-color: #ffbe18
-            }
-
-            html:root {
-                --tg-common-color-black: #0f161b
-           }    
